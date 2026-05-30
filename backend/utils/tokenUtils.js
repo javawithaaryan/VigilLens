@@ -20,6 +20,8 @@ const verifyToken = (token) => {
   }
 };
 
+// Example usage
+
 module.exports = {
   generateToken,
   generateRefreshToken,

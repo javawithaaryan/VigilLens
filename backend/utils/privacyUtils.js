@@ -53,7 +53,7 @@ const getPrivacyReport = async (userId) => {
     throw error;
   }
 };
-
+// Example usage
 module.exports = {
   calculatePrivacyScore,
   getPrivacyReport,
